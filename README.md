@@ -1,4 +1,4 @@
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/PericlesRodrigues01/player-detector)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PericlesRodrigues01/player-detector)
 
 # ⚽ Player and Ball Detection with YOLOv8
 
