@@ -61,6 +61,17 @@ The final model successfully overcame the "null detection" issue present in earl
 
 *Figure 2: Result example showing detections on a test image.*
 
+#### ⚠️ Limitations & Dataset Constraints
+
+Please note that this project serves primarily as a **Proof of Concept (PoC)** focused on Data Engineering and Data Augmentation techniques.
+
+The model was trained on a intentionally restricted dataset of just **20 manually annotated images**. While the aggressive augmentation strategy allowed the model to generalize surprisingly well, users may observe limitations such as:
+* Reduced accuracy in crowded scenes or with heavy occlusion.
+* False negatives in lighting conditions significantly different from standard broadcast footage.
+* Lower confidence scores on camera angles not present in the training set.
+
+For a production-ready application, expanding the dataset to hundreds of images would be the next logical step.
+
 ## 🛠 Technologies Used
 Python
 
