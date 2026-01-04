@@ -1,3 +1,5 @@
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/SEU_USUARIO/futebol-yolov8-detector)
+
 # ⚽ Player and Ball Detection with YOLOv8
 
 This Computer Vision project leverages Deep Learning to detect players, balls, and sports equipment in match footage.
